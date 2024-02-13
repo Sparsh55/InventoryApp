@@ -1,6 +1,8 @@
 ### Inventory-App
 A full stack app, which helps to manage your inventory.
 
+Hosted On : https://inventorryapp.onrender.com
+
 ### screenshots
 
 ![image](https://github.com/Sparsh55/InventoryApp/assets/111353842/49cef59f-bc27-451b-a0be-bdcc66be7560)
